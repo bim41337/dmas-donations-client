@@ -1,0 +1,11 @@
+# Dependencies
+node_modules
+
+# Compiled files
+scripts/app-bundle.js
+scripts/app-bundle.js.map
+scripts/vendor-bundle.js
+
+# Other
+.idea
+.DS_STORE
